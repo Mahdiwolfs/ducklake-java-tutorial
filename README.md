@@ -2,6 +2,8 @@
 
 En steg-för-steg tutorial för att ansluta till DuckLake via Java på en virtuell Linux-server (Ubuntu) på KTH Cloud.
 
+OBS — Linux-distribution: Det går att välja olika Linux-distributioner när du skapar en deployment på KTH Cloud. Det här tutorialet är skrivet för Ubuntu och använder apt som pakethanterare. Använder du en annan distro (t.ex. Fedora, Debian, Arch) kan kommandona för att installera paket se annorlunda ut.
+
 ## Förutsättningar
 
 - En SSH-nyckel skapad och uppladdad till din profil på [KTH Cloud](https://cloud.cbh.kth.se)
