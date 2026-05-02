@@ -103,10 +103,10 @@ Spara med `Ctrl+O` → `Enter` → `Ctrl+X`.
 ## Steg 7 — Skapa Java-filen
 
 ```bash
-nano -w DuckLakeGeneric.java
+nano -w <filensnamn>.java
 ```
 
-Klistra in koden från filen `DuckLakeGeneric.java` i detta repo.
+Klistra in koden från filen `filensnamn.java` i detta repo.
 
 Spara med `Ctrl+O` → `Enter` → `Ctrl+X`.
 
