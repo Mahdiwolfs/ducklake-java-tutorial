@@ -14,7 +14,7 @@ En steg-för-steg tutorial för att ansluta till DuckLake via Java på en virtue
 Öppna PowerShell och kör:
 
 ```bash
-ssh -i ~/.ssh/id_ed25519_kth2 vscode-test@deploy.cloud.cbh.kth.se
+ssh <din deployment>@deploy.cloud.cbh.kth.se
 ```
 
 ---
