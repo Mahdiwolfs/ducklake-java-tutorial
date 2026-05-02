@@ -123,7 +123,7 @@ export $(cat .env | grep -v '^#' | grep -v '^\s*$' | xargs)
 Kompilera och kör:
 
 ```bash
-javac -cp duckdb.jar DuckLakeGeneric.java && java -cp .:duckdb.jar DuckLakeGeneric
+javac -cp duckdb.jar <filensnamn>.java && java -cp .:duckdb.jar <filensnamn>
 ```
 
 ---
