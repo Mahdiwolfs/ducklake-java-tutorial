@@ -1,6 +1,6 @@
 import java.sql.*;
 
-public class DuckLakeGeneric {
+public class <filensnamn> {
     public static void main(String[] args) {
         String s3Key      = System.getenv("AWS_ACCESS_KEY_ID");
         String s3Secret   = System.getenv("AWS_SECRET_ACCESS_KEY");
